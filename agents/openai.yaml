@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Zero Native Install"
+  short_description: "Install and run Agent Zero without containers"
+  default_prompt: "Use $a0-install-skills to install and verify Agent Zero directly on this machine without a container runtime."
